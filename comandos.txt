@@ -1,0 +1,8 @@
+
+git init - Cria um novo subdiretório .git no diretório de trabalho atual.
+git init * - Pegará quaisquer arquivos alterados e não monitorados no repositório e os adicionará ao repositório e atualizará a árvore de trabalho do repositório.
+git config --global user.email/user.name "Nome das informações": Altera Nome/E-mail responsavél pelas alterações.
+git clone (Endereço da URL sem os parênteses)  - Criar uma cópia ou clone de repositórios remotos.
+git commit -m "Descrição das alterações" - Captura o estado de um projeto naquele momento.
+git remote add origin (URL do repositório no GITHUB) - Aponta o repositório local para o repositório remoto.
+git push origin master - Empurra as alterações do repositório local para o remoto
