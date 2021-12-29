@@ -6,3 +6,4 @@ git clone (Endereço da URL sem os parênteses)  - Criar uma cópia ou clone de 
 git commit -m "Descrição das alterações" - Captura o estado de um projeto naquele momento.
 git remote add origin (URL do repositório no GITHUB) - Aponta o repositório local para o repositório remoto.
 git push origin master - Empurra as alterações do repositório local para o remoto
+git remote update - Atualizar os branches locais com as copias do repositório online
